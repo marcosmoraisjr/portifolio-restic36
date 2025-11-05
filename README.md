@@ -12,9 +12,6 @@ Este repositório consolida os **projetos desenvolvidos, liderados e entregues**
 - **✈️ WeaveTrip / JustTravel Integration** – Solução para turismo esportivo com integração de passagens, hospedagens e eventos via API SportsEvents365.  
   Stack: Node.js, Next.js, GraphQL e Phoenix/Elixir (POC).
 
-- **🎯 PSS – Porto Seguro da Sorte** – Sistema de rifas e sorteios com back-end em Django REST e painel administrativo em Next.js.  
-  Stack: Django REST, DRF-YASG, JWT Auth e Jazzmin Admin.
-
 ## 🧠 Metodologias e práticas adotadas
 - Gestão ágil com **Scrum / Kanban**
 - Integração Contínua (CI/CD) via GitHub Actions

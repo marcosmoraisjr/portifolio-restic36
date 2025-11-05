@@ -1,3 +1,5 @@
+![CEPEDI](https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_CEPEDI.png)  
+![SOFTEX](https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_Softex.png)
 
 # 📘 Portfólio ResTIC36 – Marcos Morais
 
@@ -25,3 +27,6 @@ A **Residência TIC 36** é um programa de capacitação avançada em desenvolvi
 
 > “Mais que código, entregamos transformação digital.” — *Marcos Morais*
 
+---
+📍 Desenvolvido sob liderança técnica de [Marcos Morais](https://github.com/marcosmoraisjr)  
+📆 Residência TIC 36 | CEPEDI • SOFTEX • MCTI • Governo da Bahia  
